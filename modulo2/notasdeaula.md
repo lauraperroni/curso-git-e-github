@@ -14,4 +14,7 @@ adiciona todos os arquivos para a esteira de commit
 #### -> git add (caminho do arquivo)
 adiciona um arquivo específico na fila do commit
 
-#### Git commit -m "mensagem"
+#### -> git commit -m "mensagem"
+
+
+#### -> git pull 
